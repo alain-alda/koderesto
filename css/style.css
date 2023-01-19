@@ -1,0 +1,55 @@
+img {
+   max-width: 100%;
+   height: auto;
+}
+
+#mainMenu .nav-link {
+   color: #17a2b8;
+}
+
+#mainMenu .nav-link:hover {
+   background: #17a2b8;
+   color: #333;
+   border-radius: 5px;
+}
+
+#mainMenu .nav-link.active {
+   background: #17a2b8;
+   color: #333;
+   border-radius: 5px;
+}
+
+.carousel-control-next-icon, 
+.carousel-control-prev-icon {
+   background-color: #262626;
+} 
+
+#contact {
+   background: url(../images/map.jpg);
+}
+
+#footer ul a {
+   color: #262626;
+   text-decoration: none;
+}
+
+#footer ul a:hover {
+   color: #17a2b8;
+}
+
+/* @media only screen and (min-width: 200px) and (max-width: 767px) */
+
+/* EVENTS */
+
+/* #events {
+   background: url(../images/banner_04.jpg) no-repeat center center/cover;
+   height: 100vh; 
+} */
+
+#events img {
+   height: 400px;
+}
+
+.bg-blue {
+   background: #17a2b8;
+}
